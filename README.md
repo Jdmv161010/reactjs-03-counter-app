@@ -1,3 +1,27 @@
+# Temas puntuales de la sección
++ primera aplicación - Hola Mundo
++ Creación de componentes (Functional Components)
++ Propiedades - Props
++ Impresiones en el HTML
++ PropTypes
++ DefaultProps
++ Introducción general a los Hooks: useState
+
+Introducción a las pruebas
+
++ Arrange - Arreglar
++ Act - Actuar
++ Assert - Afirmar
++ Primeras pruebas
++ Jest
++ Expect
++ toBe
++ Enzyme
++ Comandos útiles en la terminal para pruebas
++ Revisar elementos renderizados en el componente
++ Simular eventos
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
